@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/34634220/209832375-a7c1050a-d8f6-461d-ac91-19aab2f12f8c.jpg)]()
 
-<h1 align="center">Hi 👋, ✨ there~ ✨ </h1>
+<h1 align="center">Hi 👋, there~ </h1>
 <h3 align="center">want to be Full-Stack developer && Strategic planner</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/34634220/209834553-efbc3557-991a-46e6-b31d-f803b8a005f0.jpg"/>
 
