@@ -10,7 +10,7 @@
 <p align="left">
    <img src="https://komarev.com/ghpvc/?username=asher27&style=for-the-badge" alt="asher27" />
 </p> 
-<p>
+
 - 🔭 I’m currently working on ....
 
 - 🌱 I’m currently learning **Spring, React, Vue, Svelte...**
@@ -18,11 +18,6 @@
 - 👯 I’m looking to collaborate on **New interesting features..**
 
 - 👨‍💻 All of my projects are available here, **try to upload it here if possible**
-</p>
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asher27&show_icons=true&locale=en&layout=compact" alt="asher27" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asher27&show_icons=true&locale=en&layout=compact" alt="asher27" /></p>
-</div>
 
 <h3 align="left">Languages and Tools:</h3>
    <a href="https://spring.io/" target="_blank" rel="noreferrer">
@@ -52,4 +47,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
  <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
     <img src="https://svelte.dev/_app/immutable/assets/stopwar-947a4798.svg" alt="svelte" width="40" height="40"/> </a>
-</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asher27&show_icons=true&locale=en&layout=compact" alt="asher27" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asher27&show_icons=true&locale=en&layout=compact" alt="asher27" /></p>
+
