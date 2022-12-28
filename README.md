@@ -47,7 +47,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
  <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
     <img src="https://svelte.dev/_app/immutable/assets/stopwar-947a4798.svg" alt="svelte" width="40" height="40"/> </a>
-  
- <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://spring.io/images/spring-logo-2022-93b99aee11ba10c57283810ff6f7f500.svg" alt="spring" width="120" height="120"/> </a>
 </p>
