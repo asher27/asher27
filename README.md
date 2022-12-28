@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, ✨ there~ ✨ </h1>
 <h3 align="center">want to be Full-Stack developer && Strategic planner</h3>
-<img align="right" alt="Coding" width="400" src="[https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif](https://user-images.githubusercontent.com/34634220/209834553-efbc3557-991a-46e6-b31d-f803b8a005f0.jpg)"/>
+<img align="right" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/34634220/209834553-efbc3557-991a-46e6-b31d-f803b8a005f0.jpg]"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asher27&style=for-the-badge" alt="asher27" /> </p>
 
