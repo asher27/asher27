@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, ✨ there~ ✨ </h1>
 <h3 align="center">want to be Full-Stack developer && Strategic planner</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="right" alt="Coding" width="400" src="[https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif](https://user-images.githubusercontent.com/34634220/209834553-efbc3557-991a-46e6-b31d-f803b8a005f0.jpg)"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asher27&style=for-the-badge" alt="asher27" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **New interesting features..**
 
-- 👨‍💻 All of my projects are available here **try to upload it here if possible**
+- 👨‍💻 All of my projects are available here, **try to upload it here if possible**
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asher27&show_icons=true&theme=radical)
