@@ -15,6 +15,7 @@
 
 - 👨‍💻 All of my projects are available here, **try to upload it here if possible**
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asher27&show_icons=true&locale=en&layout=compact" alt="asher27" /></p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asher27&show_icons=true&theme=radical)
 
