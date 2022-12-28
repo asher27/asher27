@@ -4,10 +4,11 @@
 <h3 align="center">want to be Full-Stack developer && Strategic planner</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/34634220/209834553-efbc3557-991a-46e6-b31d-f803b8a005f0.jpg"/>
 
-
+<p align="left">
+   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasher27&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="asher27" />
+</p> 
 <p align="left">
    <img src="https://komarev.com/ghpvc/?username=asher27&style=for-the-badge" alt="asher27" />
-   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fasher27&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="asher27" />
 </p> 
 
 - 🔭 I’m currently working on ....
