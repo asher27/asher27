@@ -10,7 +10,7 @@
 <p align="left">
    <img src="https://komarev.com/ghpvc/?username=asher27&style=for-the-badge" alt="asher27" />
 </p> 
-
+<p>
 - 🔭 I’m currently working on ....
 
 - 🌱 I’m currently learning **Spring, React, Vue, Svelte...**
@@ -18,12 +18,10 @@
 - 👯 I’m looking to collaborate on **New interesting features..**
 
 - 👨‍💻 All of my projects are available here, **try to upload it here if possible**
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asher27&show_icons=true&locale=en&layout=compact" alt="asher27" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asher27&show_icons=true&locale=en&layout=compact" alt="asher27" /></p>
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asher27&show_icons=true&theme=radical) -->
-
 
 
 <h3 align="left">Languages and Tools:</h3>
