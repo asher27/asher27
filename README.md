@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://spring.io/images/spring-logo-2022-93b99aee11ba10c57283810ff6f7f500.svg" alt="spring" /> </a>
+    <img src="https://spring.io/images/spring-logo-2022-93b99aee11ba10c57283810ff6f7f500.svg" alt="spring" width="120" height="60"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a> 
