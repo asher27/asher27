@@ -48,5 +48,5 @@
  <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
     <img src="https://svelte.dev/_app/immutable/assets/stopwar-947a4798.svg" alt="svelte" width="40" height="40"/> </a>
  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/34634220/209837190-ce927b9b-08ca-46e3-8439-2b8cb8372aa4.jpg" alt="svelte" width="40" height="40"/> </a>
+    <img src="https://user-images.githubusercontent.com/34634220/209837439-b70fffcc-7b9c-4a38-bf46-3da9cf65e1a5.jpg" alt="svelte" width="40" height="40"/> </a>
 </p>
