@@ -47,6 +47,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
  <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
     <img src="https://svelte.dev/_app/immutable/assets/stopwar-947a4798.svg" alt="svelte" width="40" height="40"/> </a>
+ <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://redis.io/images/favicons/favicon-32x32.png" alt="redis" width="40" height="40"/> </a>
+    
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asher27&show_icons=true&locale=en&layout=compact" alt="asher27" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asher27&show_icons=true&locale=en&layout=compact" alt="asher27" /></p>
