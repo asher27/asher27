@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available here, **try to upload it here if possible**
 
-<br>
+<br><br>
 <h3 align="left">Languages and Tools:</h3>
 <br>
    <p align="left">
