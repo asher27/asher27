@@ -23,7 +23,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <br>
    <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,bootstrap,css,git,html,js,mongodb,mysql,nextjs,nodejs,react,vue,svelte,redis&perline=14" />
+  <img src="https://skillicons.dev/icons?i=spring,bootstrap,css,git,html,js,mongodb,mysql,nextjs,nodejs,react,vue,svelte,redis,outsystems&perline=14" />
 </p>
     
 
